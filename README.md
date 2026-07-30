@@ -96,6 +96,21 @@ RETURN me.mission;
 
 ---
 
+### `MATCH (n:Graph) RETURN n`   ·   [full showcase →](https://kavya2693.github.io/graph.html)
+
+Knowledge graphs are where I do my sharpest work — modeling, validating, and querying enterprise data as a graph.
+
+| Graph system | |
+|---|---|
+| **[ontoloop](https://github.com/kavya2693/ontoloop)** | Safety-report knowledge graph repaired until a **SHACL** validator passes — the verifier never calls a model. |
+| **[blastradius](https://github.com/kavya2693/blastradius)** | SQL and Python fused into one dependency graph, so column-impact becomes a reachability query. |
+| **cryptographic-risk KG** | 6,400-node crypto-posture graph — SHACL, risk scoring vs NIST/FIPS/PCI, graph ML, and NL→Cypher. *(prototype)* |
+| **cex-knowledge-graph · mincalvina** | Production-shaped commercial KGs — AWS Neptune, LinkML/RDF ontologies, GraphQL, entity resolution. *(private)* |
+
+`RDF` · `OWL` · `SHACL` · `LinkML` · `SPARQL` · `Cypher` · `Neo4j` · `AWS Neptune` · `Graph-RAG`
+
+---
+
 <div align="center">
 
 ### `./stats.sh`
