@@ -118,7 +118,7 @@ Knowledge graphs are where I do my sharpest work — modeling, validating, and q
 | **[agentic-supply-planning](https://github.com/kavya2693/agentic-supply-planning)** | Demand forecasts turned into budgeted, approved purchase orders by a LangGraph supervisor and four agents. |
 | **[shelf-vision](https://github.com/kavya2693/shelf-vision)** | CCTV shelf frames to planogram compliance, store tasks and replenishment, with a 3D store twin. *(in progress, synthetic data)* |
 | **[retail-demand-forecasting](https://github.com/kavya2693/retail-demand-forecasting)** | Store x SKU replenishment forecasting with a with/without-graph ablation; reports the small graph lift honestly. |
-| **[ecommerce-intel](https://github.com/kavya2693/ecommerce-intel)** | Daily Noon UAE and Amazon.ae price and review tracker that ranks product candidates and fails loudly on bad days. |
+| **[novacart-mlops](https://github.com/kavya2693/novacart-mlops)** | Churn, demand forecasting and a Graph-RAG assistant served as one MLOps stack on a simulated retailer; logistic regression beat boosting, LightGBM only tied ARIMA. |
 | **[uae-business-mcp](https://github.com/kavya2693/uae-business-mcp)** | MCP server that makes a local UAE business usable by AI agents, one config file per business. *(in progress)* |
 
 ---
