@@ -56,7 +56,7 @@ Each repo: problem-first README and results including what didn't win; most also
 | Repo | Problem | Headline result |
 |---|---|---|
 | [ddmrp-buffers](https://github.com/kavya2693/ddmrp-buffers) | How much stock a lubricants distributor releases with DDMRP buffers, at the service level customers get today | Days of inventory 97.6 → 52.1 (−47%) at matched 98.46% fill |
-| [agentic-supply-planning](https://github.com/kavya2693/agentic-supply-planning) | Forecasts turned into budgeted, approved purchase orders by a LangGraph supervisor and four agents | 88% touchless PO rate on the retail range (synthetic data) |
+| [agentic-supply-planning](https://github.com/kavya2693/agentic-supply-planning) | Forecasts turned into budgeted, approved purchase orders by a LangGraph supervisor and four agents | 88% touchless PO rate on the retail range |
 | [supply-chain-twin](https://github.com/kavya2693/supply-chain-twin) | Test replenishment, promotion and fleet changes on a SimPy twin of a retail chain before any store sees them | −16.6% total cost on the tuned quarter; the same plan fails with 20% of the fleet out |
 
 #### Routing & last mile
@@ -90,9 +90,9 @@ Each repo: problem-first README and results including what didn't win; most also
 
 | Repo | Problem | Headline result |
 |---|---|---|
-| [customer360-ontology-graph](https://github.com/kavya2693/customer360-ontology-graph) | A customer-360 graph that rejects malformed entities at ingestion and answers questions from the graph, with citations | SHACL gate rejects the injected fault (synthetic data) |
+| [customer360-ontology-graph](https://github.com/kavya2693/customer360-ontology-graph) | A customer-360 graph that rejects malformed entities at ingestion and answers questions from the graph, with citations | SHACL gate rejects the injected fault |
 | [ontoloop](https://github.com/kavya2693/ontoloop) | Adverse drug event narratives into a knowledge graph, repaired until a SHACL validator passes | 3B model conformance 0% → 85% with the loop; accuracy does not improve |
-| [mdm-entity-resolution](https://github.com/kavya2693/mdm-entity-resolution) | The same doctors across CRM, offline and web data resolved into golden records | Pairwise precision ~0.93, recall ~0.84 (synthetic data) |
+| [mdm-entity-resolution](https://github.com/kavya2693/mdm-entity-resolution) | The same doctors across CRM, offline and web data resolved into golden records | Pairwise precision ~0.93, recall ~0.84 |
 | [commercial-metadata-catalog](https://github.com/kavya2693/commercial-metadata-catalog) | Glossary, catalog and lineage that trace a marketing slide back to its source content and approval | Demonstration; no headline metric |
 | [blastradius](https://github.com/kavya2693/blastradius) | Column-level lineage that reaches the application code a column change will break | 100% precision, 90% recall (27 / 0 / 3) on labelled references |
 
